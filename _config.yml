@@ -2,8 +2,8 @@
 title: Create.Connect
 email: example@xreateconnect.org
 description: > # this means to ignore newlines until "baseurl:"
-  Create.Connect, is an indoor exhibit that encourages hands-on play and 
-  plenty of exploration.
+  Create.Connect, is a new approach to integrating informal-STEM learning 
+  activities with history-based stories and activities.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://createconnect.org" # the base hostname & protocol for your site
 twitter_username: jekyllrb
