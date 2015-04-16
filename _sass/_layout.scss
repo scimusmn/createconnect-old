@@ -114,6 +114,17 @@
     @extend %clearfix;
 }
 
+.footer-logo {
+  float: left;
+  padding: 20px;
+}
+
+.footer-col-wrapper p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
 .footer-col {
     float: left;
     margin-bottom: $spacing-unit / 2;
